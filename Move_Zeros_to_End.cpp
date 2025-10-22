@@ -41,3 +41,4 @@ void MoveZerosEnd(vector<int>& nums){
       cout<<endl;
       return 0;
      }
+/// Brute solution
